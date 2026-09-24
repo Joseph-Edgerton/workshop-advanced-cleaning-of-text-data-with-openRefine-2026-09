@@ -35,7 +35,7 @@ If you just want to follow along with a completed project, then open the "comple
 Workshop project directory:
 
     data
-        eebo.csv
+        eebo_data_v1.csv
     completed_project
         OR_adv_tutorial_COMPLETE.openrefine.tar.gz
     2026-08-21_RDM_OR_Adv_handout-v1.docx
